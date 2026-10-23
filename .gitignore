@@ -1,0 +1,15 @@
+# Private keys
+*.pem
+*.ppk
+*.id_rsa
+*.id_ed25519
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
